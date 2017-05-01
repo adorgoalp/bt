@@ -542,11 +542,12 @@ ul.social-icons li {
   text-decoration: none;
 }
 .global-page-header {
+    margin-top: 3%;
   background-attachment: fixed;
   background-size: cover;
-  padding: 120px 0 25px 0;
+  padding: 0;
   position: relative;
-  background: #02bdd5;
+  background: #8CC63F;
   color: #fff;
 }
 .global-page-header h2 {
