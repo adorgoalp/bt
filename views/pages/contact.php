@@ -16,7 +16,7 @@
                                         Home
                                     </a>
                                 </li>
-                                <li class="active">Contact</li>
+                                <li class="active">Contact Us</li>
                             </ol>
                         </div>
                     </div>
