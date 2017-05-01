@@ -31,7 +31,7 @@
                         <a href="?controller=pages&action=home">Home</a>
                     </li>
                     <li><a href="?controller=pages&action=about&type=master">About</a></li>
-                    <li><a href="?controller=pages&action=Service&type=master">Services</a></li>
+                    <li><a href="?controller=pages&action=Service&type=master">Our Services</a></li>
                     <li><a href="?controller=pages&action=gallery&type=master">Product</a></li>
                     <!--li><a href="?controller=pages&action=blog_post&type=master">Our customers</a></li-->
                     <!--<li class="dropdown">

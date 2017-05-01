@@ -3,6 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Glegoo);
 body {
   font-family: 'Roboto', sans-serif;
+  background: #d2d2d2;
 }
 h1,
 h2,
@@ -828,7 +829,7 @@ ul.social-icons li {
   margin-top: 30px;
 }
 .team-member:hover .team-img img {
-  opacity: .8;
+  opacity: 0.8;
 }
 .team-member .team-img {
   position: relative;
@@ -840,7 +841,7 @@ ul.social-icons li {
   font-size: 13px;
 }
 .team-member h3 {
-  color: #02bdd5;
+  color: #8CC63F;
   margin-bottom: 0;
   font-size: 20px;
 }
