@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
 		<script src="timeMaster/js/formload.js"></script>     
@@ -23,6 +23,8 @@
         <link rel="stylesheet" href="timeMaster/css/bootstrap.min.css">
         <!-- Ionicons Fonts Css -->
         <link rel="stylesheet" href="timeMaster/css/ionicons.min.css">
+        <!--color-->
+        <link rel="stylesheet" href="timeMaster/css/color.css">
         <!-- animate css -->
         <link rel="stylesheet" href="timeMaster/css/animate.css">
         <!-- Hero area slider css-->

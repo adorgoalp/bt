@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 1, 2017, 12:51:10 PM
+    Author     : Ifta
+*/
+
+.white{
+    color: #ffffff;
+}
+.black{
+    color: #333333;
+}
+.gray{
+    color: #666666;
+}
+.lightGray{
+    color: #d2d2d2;
+}
+.emerald{
+    color: #28903A;
+}
+.mintJulep{
+    color:  #006A3A;
+}
+.jade{
+    color:  #6C9D31
+}
+.lightSproutGreen{
+    color: #8CC63F;
+}
+
+.peridot{
+    color: #CADB2A;
+}
+
+.yellow{
+    color: #FFF200;
+}
